@@ -1,3 +1,11 @@
-# References in `BibTeX` format
+---
+title: "References in BibTeX format"
+author: "Jonas Schöley"
+---
 
-Managed with <http://jabref.sourceforge.net/>
+References in `BibTeX` format
+=============================
+
+The literature references I use in my academic work.
+
+Managed with <http://jabref.sourceforge.net/>.
